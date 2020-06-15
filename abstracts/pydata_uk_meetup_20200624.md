@@ -24,10 +24,10 @@ member of NLP business ProWritingAid and builds product focussed technology team
 
 **Nikoleta E. Glynatsi - A bibliometric study of a research field**
 
-Data mining techniques can be used to collect articles’ metadata. I have written a 
-library that allows a user to collect data from five different prominent sources; 
-Arcas. This talk briefly covers an overview of the data collection, and mainly focuses 
-on the insights that can be gained on a scientific field from analysing such 
+Data mining techniques can be used to collect articles’ metadata. I have
+written a library called Arcas that allows a user to collect data from five different
+prominent sources. This talk briefly covers an overview of the data collection, and mainly 
+focuses on the insights that can be gained on a scientific field from analysing such 
 data. More specifically I will demonstrate how natural language processing can be 
 used to identify the topic structure of a subject area, and how data analysis 
 techniques can be used to understand the behaviour of authors in game theoretic fields.
