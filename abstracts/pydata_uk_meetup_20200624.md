@@ -33,9 +33,26 @@ used to identify the topic structure of a subject area, and how data analysis
 techniques can be used to understand the behaviour of authors in game theoretic fields.
 
 
-**Nick Radcliffe - Title TBA**
+**Nick Radcliffe - gentest: Automatic Test Generation for Arbitrary (1) Programs with TDDA**
 
-**Luciano Resende - Title TBA** 
+Reasonable people think automated testing is useful. Despite this, most of us succumb to the 
+temptation to omit or skimp on testing at least some of the time. Could useful, elegant, 
+extensible tests be generated automatically? gentest is embryonic functionality in the 
+Python tdda library (available from PyPI [pip] and from Github) that can be used to 
+generate tests automatically for arbitrary command-line programs or scripts — Python programs, 
+shell scripts, C, Node, Swift, Java — gentest doesn’t care. The tests will be in Python, 
+but the code can be anything. This talk will motivate and introduce gentest and show it 
+in action.
+
+(1) arbitrary command-line programs; gentest isn’t yet clever enough to test GUIs or Mobile apps.
+
+**Luciano Resende - Introducing Elyra - Extending JupyterLab for AI**
+
+In this session, Luciano will be walking you through a real use case pipeline that uses Elyra 
+features to help analyze COVID-19 related datasets. He will introduce Elyra, a project built 
+to extend JupyterLab with AI-centric capabilities. He'll showcase the extensions that allow 
+you to build Notebook Pipelines and execute these in a Kubeflow environment, execute notebooks 
+as batch jobs, the ability to create, edit and execute Python scripts directly from JupyterLab, 
 
 Luciano Resende is an STSM and Open Source Data Science/AI Platform Architect at IBM CODAIT 
 (formerly Spark Technology Center). He has been contributing to open source at The ASF for over 10 years, 
