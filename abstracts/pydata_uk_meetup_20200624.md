@@ -9,6 +9,8 @@ fail or go horribly wrong during production. NLP is a weird branch of data scien
 with natural language is a wibbly wobbly thing. We will be going over a few pitfalls one may 
 experience when working with NLP and how they will effect your pipeline downstream.
 
+Ryan is the Lead Data Scientist and Computational Linguist at Relative Insight and Organiser of PyData Lancaster.
+
 **Matt Wright - When Product Management meets Machine Learning.**
 
 A practical walk through of a recent NLP project which combines techniques from product management, 
